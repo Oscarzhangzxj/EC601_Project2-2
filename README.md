@@ -22,6 +22,7 @@ python3 sentiment_analysis.py reviews/filename.txt
 ### 3.MVP and User story
 - ***User***:  
 Consultant, Advisors, Project Manager
+![111731666031411_ pic](https://user-images.githubusercontent.com/112965000/196258081-d2042f5e-8496-45be-b581-9fa767d682d7.jpg)
 
 - ***Mission***:   
 Use entity analysis to find and tag fields in documents, including emails, chat conversations, and social media posts, and then perform
